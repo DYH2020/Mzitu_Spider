@@ -26,8 +26,7 @@ pip install -r requirements.txt
 python mz.py
 ```
 运行爬虫，如图所示  
-![](/screenshots/1.png)  
+![](/screenshots/1.jpg)  
 
 稍等几分钟后，当前目录下生成Mzitu文件夹，首页每套图以存储在其中  
 ![](/screenshots/2.png)  
-
